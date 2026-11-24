@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "i-Tantana",
+    "slug": "i-tantana",
+    "scheme": "itantana",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "allowBackup": false
+    },
+    "plugins": [
+      "expo-router",
+      "expo-localization"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
